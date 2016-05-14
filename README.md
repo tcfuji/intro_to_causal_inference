@@ -1,6 +1,8 @@
 ## A "Quick", Broad Introduction to Causal Inference
 #### (from an elementary, mostly observational point-of-view)
 
+For a clean view from the NBViewer, click [here](https://nbviewer.jupyter.org/github/tcfuji/intro_to_causal_inference/blob/master/presentation-part1.ipynb)
+
 This IPython notebook was used to give the Penn Medicine Predictive Healthcare
 team exposure to the topic of causal inference and introduce them to some
 established methods. This notebook can be presented as a Reveal.js slideshow using
